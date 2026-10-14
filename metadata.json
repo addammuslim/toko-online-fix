@@ -1,0 +1,6 @@
+{
+  "name": "Nusantara Store - Toko Online, POS & Laporan Keuangan",
+  "description": "Platform Toko Online & POS Lengkap dengan Laporan Harian/Bulanan/Tahunan Laba Rugi, Pengeluaran, Promo & Loyalty Bertingkat, Akun Customer & Captcha",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
